@@ -1,0 +1,3 @@
+Infix Form : 4*4*4*4
+Postfix Form : 44*4*4*
+Evalutation Result : 256
